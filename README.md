@@ -1,4 +1,4 @@
-# Heart-Diseass-Prediction
+# Heart-Disease-Prediction
 This project involves analyzing a heart disease dataset from Kaggle and developing a predictive model. The steps include data preparation, analysis, and a diagnostic scenario for COVID-19.
 
 1) Libraries Used:
