@@ -2,10 +2,15 @@
 This project involves analyzing a heart disease dataset from Kaggle and developing a predictive model. The steps include data preparation, analysis, and a diagnostic scenario for COVID-19.
 
 1) Libraries Used:
+   
 a. Pandas: Data manipulation and analysis
+
 b. NumPy: Numerical operations
+
 c. Scikit-learn: Model training, testing, and evaluation
-2) Data Preparation
+
+3) Data Preparation
+   
 a. Download the Dataset
 - Source: Kaggle
   
@@ -18,6 +23,7 @@ c. Data Extraction
 - Split: 75% training, 25% testing
   
 3) Diagnostic Scenario
+   
 a. COVID-19 Prediction
 
 b. Confusion matrix based on given data
